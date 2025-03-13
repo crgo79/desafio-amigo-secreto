@@ -29,7 +29,7 @@ Instalación 🔧
 
 Clona el repositorio en tu máquina local:
 
-git clone 
+git clone https://crgo79.github.io/desafio-amigo-secreto/
 
 Navega al directorio del proyecto:
 
